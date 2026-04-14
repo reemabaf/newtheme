@@ -1,0 +1,77 @@
+{
+  "name": {
+    "en": "LORE",
+    "ar": "لور"
+  },
+  "repository": "https://github.com/reemabaf/new-theme",
+  "author_email": "hello@example.com",
+  "features": [
+    "breadcrumb",
+    "filters",
+    "fonts",
+    "color"
+  ],
+  "settings": [
+    {
+      "id": "announcement_text",
+      "type": "string",
+      "format": "text",
+      "multilanguage": true,
+      "label": "Announcement text",
+      "value": {
+        "en": "Free shipping on orders over 250 SAR • Premiere Night collection now live",
+        "ar": "شحن مجاني للطلبات فوق 250 ريال • مجموعة Premiere Night متاحة الآن"
+      },
+      "required": false
+    },
+    {
+      "id": "hero_title",
+      "type": "string",
+      "format": "text",
+      "multilanguage": true,
+      "label": "Hero title",
+      "value": {
+        "en": "Phone cases and stickers inspired by the stories you love.",
+        "ar": "اغطية جوال وستيكرات مستوحاة من القصص التي تحبينها."
+      },
+      "required": false
+    },
+    {
+      "id": "accent_color",
+      "type": "string",
+      "format": "color",
+      "label": "Accent color",
+      "value": "#4A235D",
+      "required": false
+    },
+    {
+      "id": "surface_color",
+      "type": "string",
+      "format": "color",
+      "label": "Surface color",
+      "value": "#F7F0E8",
+      "required": false
+    },
+    {
+      "id": "brand_mark",
+      "type": "string",
+      "format": "image",
+      "label": "Brand mark",
+      "value": null,
+      "required": false
+    },
+    {
+      "id": "newsletter_title",
+      "type": "string",
+      "format": "textarea",
+      "multilanguage": true,
+      "label": "Newsletter title",
+      "value": {
+        "en": "Early access to new drops, curated edits, and story-led releases.",
+        "ar": "دخول مبكر للاصدارات الجديدة والتنسيقات المختارة والاطلاقات المستوحاة من القصص."
+      },
+      "required": false
+    }
+  ],
+  "components": []
+}

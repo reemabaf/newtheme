@@ -1,0 +1,14 @@
+{
+  "name": {
+    "en": "LORE",
+    "ar": "لور"
+  },
+  "repository": "https://github.com/reemabaf/new-theme",
+  "author_email": "hello@example.com",
+  "features": [
+    "breadcrumb",
+    "filters"
+  ],
+  "settings": [],
+  "components": []
+}

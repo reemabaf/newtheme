@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "theme_name": "LORE",
+  "repo_url": "https://github.com/reemabaf/new-theme",
+  "support_url": "https://salla.dev",
+  "settings": [
+    {
+      "type": "string",
+      "id": "placeholder",
+      "format": "hidden",
+      "value": "images/product-midnight-reel.svg"
+    }
+  ],
+  "features": [
+    "filters"
+  ],
+  "components": []
+}
